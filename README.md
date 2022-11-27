@@ -24,4 +24,4 @@
 
 <h1><b>Screenshot of this project.</b></h1>
 
-![Bill](https://user-images.githubusercontent.com/72568715/134779769-7695a727-adbb-43b7-9e60-1205dc982ae7.PNG)
+![Bill](Bill.PNG)
