@@ -61,6 +61,7 @@ class Bill_App:
         self.medical_tax = StringVar()
         self.grocery_tax = StringVar()
         self.cold_drinks_tax = StringVar()
+        
     # =============customer retail details======================
         F1 = LabelFrame(self.root, text="Customer Details", font=('times new roman', 15, 'bold'), bd=10, fg="Black", bg="#badc57")
         F1.place(x=0, y=80, relwidth=1)
