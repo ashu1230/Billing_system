@@ -22,6 +22,7 @@ class Bill_App:
         self.dettol = IntVar()
         self.newsprin = IntVar()
         self.thermal_gun = IntVar()
+        
     # ============grocery==============================
         self.rice = IntVar()
         self.food_oil = IntVar()
