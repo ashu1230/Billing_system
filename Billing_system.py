@@ -13,6 +13,7 @@ class Bill_App:
         bg_color = "#badc57"
         title = Label(self.root, text="Billing Software", font=('times new roman', 30, 'bold'), pady=2, bd=12, bg="white", fg="Black", relief=GROOVE)
         title.pack(fill=X)
+        
     # ================variables=======================
         self.sanitizer = IntVar()
         self.mask = IntVar()
