@@ -57,6 +57,7 @@ class Bill_App:
         self.search_bill = StringVar()
         
     # ===============Tax================================
+    
         self.medical_tax = StringVar()
         self.grocery_tax = StringVar()
         self.cold_drinks_tax = StringVar()
