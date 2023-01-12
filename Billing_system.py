@@ -33,6 +33,7 @@ class Bill_App:
         self.maggi = IntVar()
         
         #=============coldDtinks=============================
+        
         self.sprite = IntVar()
         self.limka = IntVar()
         self.mazza = IntVar()
