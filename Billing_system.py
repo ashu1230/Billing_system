@@ -15,6 +15,7 @@ class Bill_App:
         title.pack(fill=X)
         
     # ================variables=======================
+    
         self.sanitizer = IntVar()
         self.mask = IntVar()
         self.hand_gloves = IntVar()
