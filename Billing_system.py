@@ -24,6 +24,7 @@ class Bill_App:
         self.thermal_gun = IntVar()
         
     # ============grocery==============================
+       
         self.rice = IntVar()
         self.food_oil = IntVar()
         self.wheat = IntVar()
