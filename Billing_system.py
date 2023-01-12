@@ -120,6 +120,7 @@ class Bill_App:
         thermal_gun_txt.grid(row=5, column=1, padx=10, pady=10)
 
     # ==========GroceryItems=========================
+    
         F3 = LabelFrame(self.root, text="Grocery Items", font=('times new roman', 15, 'bold'), bd=10, fg="Black", bg="#badc57")
         F3.place(x=340, y=180, width=325, height=380)
 
