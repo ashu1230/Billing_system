@@ -40,6 +40,7 @@ class Bill_App:
         self.coke = IntVar()
         self.fanta = IntVar()
         self.mountain_duo = IntVar()
+        
     # ==============Total product price================
         self.medical_price = StringVar()
         self.grocery_price = StringVar()
