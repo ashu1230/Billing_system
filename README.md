@@ -6,6 +6,7 @@
 <p>This project can be used for any shops. User can store all the data and generate the bill.</p>
 
 <h2>Tech stack:</h2>
+
 <ul>
     <li>Python</li>
 </ul>
