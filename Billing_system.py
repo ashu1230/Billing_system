@@ -48,6 +48,7 @@ class Bill_App:
         self.cold_drinks_price = StringVar()
         
     # ==============Customer==========================
+    
         self.c_name = StringVar()
         self.c_phone = StringVar()
         self.bill_no = StringVar()
