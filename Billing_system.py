@@ -46,6 +46,7 @@ class Bill_App:
         self.medical_price = StringVar()
         self.grocery_price = StringVar()
         self.cold_drinks_price = StringVar()
+        
     # ==============Customer==========================
         self.c_name = StringVar()
         self.c_phone = StringVar()
