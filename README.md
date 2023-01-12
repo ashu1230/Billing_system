@@ -1,4 +1,4 @@
-# Billing_system
+# Billing System
 
 
 <h1>Billing system using Tkinter</h1>
