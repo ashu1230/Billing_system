@@ -8,6 +8,7 @@
 <h2>Tech stack:</h2>
 
 <ul>
+    
     <li>Python</li>
 </ul>
 
