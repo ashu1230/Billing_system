@@ -31,6 +31,7 @@
 <p><li>Run pip install tkinter</li></p>
 
 <h3>To execute the project:</h3>
+
 <p><li>Run billing system.py</li></p>
 
 <h1><b>Screenshot of this project.</b></h1>
