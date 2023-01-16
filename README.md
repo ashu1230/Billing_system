@@ -28,7 +28,7 @@
 
 <h3>To execute the project:</h3>
 
-<p><li>Run billing system.py</li></p>
+<p><ul>Run billing system.py</ul></p>
 
 <h1><b>Screenshot of this project.</b></h1>
 
