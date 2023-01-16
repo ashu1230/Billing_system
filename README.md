@@ -24,7 +24,7 @@
 
 <h3>To install external modules:</h3>
 
-<p><li>Run pip install tkinter</li></p>
+<p><ol>Run pip install tkinter</ol></p>
 
 <h3>To execute the project:</h3>
 
