@@ -405,6 +405,7 @@ class Bill_App:
             messagebox.showerror("Error", "Invalid Bill No")
 
     # ======================clear-bill======================
+    
     def clear_data(self):
         op = messagebox.askyesno("Clear", "Do you really want to Clear?")
         if op > 0:
