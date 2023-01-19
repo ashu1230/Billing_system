@@ -415,6 +415,7 @@ class Bill_App:
             self.dettol.set(0)
             self.newsprin.set(0)
             self.thermal_gun.set(0)
+            
     # ============grocery==============================
             self.rice.set(0)
             self.food_oil.set(0)
