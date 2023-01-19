@@ -426,6 +426,7 @@ class Bill_App:
             self.maggi.set(0)
             
     # =============coldDrinks=============================
+    
             self.sprite.set(0)
             self.limka.set(0)
             self.mazza.set(0)
