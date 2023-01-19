@@ -308,6 +308,7 @@ class Bill_App:
         self.txtarea.insert(END, f"\nProducts\t\tQTY\t\tPrice")
 
 #=========billArea=================================================
+
     def bill_area(self):
         if self.c_name.get() == " " or self.c_phone.get() == " ":
             messagebox.showerror("Error", "Customer Details Are Must")
