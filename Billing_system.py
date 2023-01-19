@@ -316,6 +316,7 @@ class Bill_App:
             messagebox.showerror("Error", "No Product Purchased")
         else:
             self.welcome_bill()
+            
     # ============medical===========================
         if self.sanitizer.get() != 0:
             self.txtarea.insert(END, f"\n Sanitizer\t\t{self.sanitizer.get()}\t\t{self.m_s_p}")
