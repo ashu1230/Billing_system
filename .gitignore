@@ -90,6 +90,7 @@ instance/
 docs/_build/
 
 # PyBuilder
+
 target/
 
 # Jupyter Notebook
