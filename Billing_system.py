@@ -417,6 +417,7 @@ class Bill_App:
             self.thermal_gun.set(0)
             
     # ============grocery==============================
+    
             self.rice.set(0)
             self.food_oil.set(0)
             self.wheat.set(0)
