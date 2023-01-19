@@ -238,6 +238,7 @@ class Bill_App:
         m6_txt.grid(row=2, column=3, padx=18, pady=1)
 
     # =======Buttons-======================================
+    
         btn_f = Frame(F6, bd=7, relief=GROOVE)
         btn_f.place(x=760, width=580, height=105)
 
