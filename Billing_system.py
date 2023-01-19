@@ -331,6 +331,7 @@ class Bill_App:
             self.txtarea.insert(END, f"\n Newsprin\t\t{self.newsprin.get()}\t\t{self.m_n_p}")
         if self.thermal_gun.get() != 0:
             self.txtarea.insert(END , f"\n Thermal Gun\t\t{self.sanitizer.get()}\t\t{self.m_t_g_p}")
+            
     # ==============Grocery============================
         if self.rice.get() != 0:
             self.txtarea.insert(END, f"\n Rice\t\t{self.rice.get()}\t\t{self.g_r_p}")
