@@ -424,6 +424,7 @@ class Bill_App:
             self.daal.set(0)
             self.flour.set(0)
             self.maggi.set(0)
+            
     # =============coldDrinks=============================
             self.sprite.set(0)
             self.limka.set(0)
