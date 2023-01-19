@@ -364,6 +364,7 @@ class Bill_App:
             self.txtarea.insert(END, f"\n--------------------------------")
             
         # ===============taxes==============================
+        
         if self.medical_tax.get() != '0.0':
             self.txtarea.insert(END, f"\n Medical Tax\t\t\t{self.medical_tax.get()}")
         if self.grocery_tax.get() != '0.0':
