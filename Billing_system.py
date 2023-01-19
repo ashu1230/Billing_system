@@ -346,6 +346,7 @@ class Bill_App:
             self.txtarea.insert(END, f"\n Flour\t\t{self.flour.get()}\t\t{self.g_f_p}")
         if self.maggi.get() != 0:
             self.txtarea.insert(END, f"\n Maggi\t\t{self.maggi.get()}\t\t{self.g_m_p}")
+            
         #================ColdDrinks==========================
         if self.sprite.get() != 0:
             self.txtarea.insert(END, f"\n Sprite\t\t{self.sprite.get()}\t\t{self.c_d_s_p}")
