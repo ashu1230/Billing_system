@@ -256,6 +256,7 @@ class Bill_App:
         self.welcome_bill()
 
 #================totalBill==========================
+
     def total(self):
         self.m_h_g_p = self.hand_gloves.get()*12
         self.m_s_p = self.sanitizer.get()*2
