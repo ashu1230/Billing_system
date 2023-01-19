@@ -297,6 +297,7 @@ class Bill_App:
         self.total_bill = float(self.total_medical_price+self.total_grocery_price+self.total_cold_drinks_price+self.c_tax+self.g_tax+self.c_d_tax)
 
 #==============welcome-bill==============================
+
     def welcome_bill(self):
         self.txtarea.delete('1.0', END)
         self.txtarea.insert(END, "\tWelcome Webcode Retail")
