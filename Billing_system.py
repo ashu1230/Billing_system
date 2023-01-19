@@ -435,6 +435,7 @@ class Bill_App:
             self.mountain_duo.set(0)
             
     # ====================taxes================================
+    
             self.medical_price.set("")
             self.grocery_price.set("")
             self.cold_drinks_price.set("")
