@@ -318,6 +318,7 @@ class Bill_App:
             self.welcome_bill()
             
     # ============medical===========================
+    
         if self.sanitizer.get() != 0:
             self.txtarea.insert(END, f"\n Sanitizer\t\t{self.sanitizer.get()}\t\t{self.m_s_p}")
         if self.mask.get() != 0:
