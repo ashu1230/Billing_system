@@ -427,6 +427,7 @@ class Bill_App:
             self.coke.set(0)
             self.fanta.set(0)
             self.mountain_duo.set(0)
+            
     # ====================taxes================================
             self.medical_price.set("")
             self.grocery_price.set("")
