@@ -203,6 +203,7 @@ class Bill_App:
         self.txtarea.pack(fill=BOTH, expand=1)
 
     # =======================ButtonFrame=============
+    
         F6 = LabelFrame(self.root, text="Bill Area", font=('times new roman', 14, 'bold'), bd=10, fg="Black", bg="#badc57")
         F6.place(x=0, y=560, relwidth=1, height=140)
 
